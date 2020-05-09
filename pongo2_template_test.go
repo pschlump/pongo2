@@ -12,8 +12,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/flosch/pongo2"
 	"github.com/juju/errors"
+	"github.com/pschlump/pongo2"
 )
 
 var adminList = []string{"user2"}
